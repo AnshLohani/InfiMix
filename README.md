@@ -34,7 +34,7 @@ How to Run
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/InfiMix.git
+git clone https://github.com/AnshLohani/InfiMix.git
 cd InfiMix
 ```
 Run the script:
